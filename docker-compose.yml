@@ -1,0 +1,6 @@
+version: '3'
+services:
+  react-fullscreen-slider-simpleapp-master :
+    image : react-fullscreen-slider-simpleapp-master
+    container_name : react-fullscreen-slider-simpleapp-master
+    build : ./React-Fullscreen-Slider-SimpleApp-master            
